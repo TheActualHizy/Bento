@@ -34,9 +34,9 @@
 .darktheme {
   --accent: #1f2259; /* Hover color */
   --bg: #1f2259; /* Background color */
-  --sbg: #1b1349; /* Cards color */
+  --sbg: #1f2259; /* Cards color */
   --fg: #1f2259; /* Foreground color */
-  --sfg: #1b1349;; /* Secondary Foreground color */
+  --sfg: #1f2259;; /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.7),
     rgba(0, 0, 0, 0.7)
